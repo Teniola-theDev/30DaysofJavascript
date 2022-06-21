@@ -1,4 +1,4 @@
-# 30DaysofJavascript
+-# 30DaysofJavascript
 
 - I will be going through thirty days of the 69 hours JS course I saw on Udemy.
 - The goal is to be very consistent.
@@ -17,12 +17,12 @@
 
 This will be successful if I finish it in less (or equal to 40 days) from the 21st of June, simply put before 1st of August.
 
-[X] I am allowed little extension of a week if we resume midway.
-[X] I should have reached the 25th hour mark of the course.
-[X] I should have committed to github at least 25 days of 30.
-[X] I don't code on Sundays- Sundays count as rest days and part of the 30 days.
-[X] I should have finished the pre-class and section one of the Google Technical Writing course.
-[X] Should have written about 2 articles (published on Hashnode.)
+- I am allowed little extension of a week if we resume midway.
+- I should have reached the 25th hour mark of the course.
+- I should have committed to github at least 25 days of 30.
+- I don't code on Sundays- Sundays count as rest days and part of the 30 days.
+- I should have finished the pre-class and section one of the Google Technical Writing course.
+- Should have written about 2 articles (published on Hashnode.)
 
 ### How I would document it.
 
