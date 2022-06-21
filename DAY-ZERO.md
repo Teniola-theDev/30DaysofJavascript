@@ -1,6 +1,6 @@
-# DAY ZERO
+# DAY ZERO _The beginning._
 
-_The beginning._
+
 
 > Javascript is a non-ending journey.
 > 
