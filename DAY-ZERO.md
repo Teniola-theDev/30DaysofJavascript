@@ -1,4 +1,4 @@
-# DAY ZERO _The beginning._
+# DAY ZERO: The beginning.
 
 
 
