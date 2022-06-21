@@ -4,7 +4,7 @@
 - The goal is to be very consistent.
 - I won't commit here on Sundays.
 - I hope to have written about 2 articles by the end of this and to have finished at least 20 hours of the course.
-- I will be documenting this via a new README file titled with what I learnt.
+- I will be documenting this via a new README file everyday titled with what I learnt.
 
 ### New Change
 
