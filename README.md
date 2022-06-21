@@ -23,7 +23,7 @@ This will be successful if I finish it in less (or equal to 40 days) from the 21
 - Should have written about 2 articles (published on Hashnode.)
 
 ### How I would document it.
-- I should commit at least once a day using names like **DAY ONE** 
+- I should commit at least once a day using names like **DAY-ONE.md** 
 - I should add at least 10 lines.
 - I should document what I learnt (if I am able to go into details)
 - Something confusing and how I got to understand it.
