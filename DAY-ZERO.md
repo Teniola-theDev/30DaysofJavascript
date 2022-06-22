@@ -1,10 +1,13 @@
-# DAY ZERO
+# DAY ZERO: The beginning.
 
-_The beginning._
 
-> Javascript is a non-ending journey
+
+> Javascript is a non-ending journey.
+> 
 > It is to me, a beautiful phase which
 > I must see to the end- a non-existing end.
+>
+>
 > ~Teniola, 2022.
 
 It is with great joy that I flag off this project. While I am doing this right now to procrastinate, I would love to think of it as a beautiful way to gain more experience.
@@ -14,8 +17,11 @@ It is with great joy that I flag off this project. While I am doing this right n
 I saw a quote that said
 
 > When you plant a seed,
+> 
 > You don't dig it up everyday asking why it has not grown.
+> 
 > Instead, you stay patient- you water it, nurture it,
+> 
 > but you still stay patient.
 
 I don't know if I have a lot of patience to do a 100DaysofCode, but I have the discipline to do a 30DaysOfCode.
