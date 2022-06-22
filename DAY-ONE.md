@@ -13,7 +13,17 @@ This is the first session of the day.
   - I ran into few errors because I am yet to be very comfortable with function declarations.
   - **Way forward:** I will revise it tomorrow and do the coding assignments.
 
+Session two of the day.
+I learnt more on functions and now I can declare a function even more.
+By the time I'm back, I should go through **Arrays**.
+
 ## What I want to have achieved by the end of the day
 
-- Watch the Youtube Video on differences between fnction declarations and function expressions
+- Watch the Youtube Video on differences between function declarations and function expressions
 - Continue my Technical Writing tutorial.
+
+## Problems
+
+- My arrow function to calculate a number did not return a number
+  - I omitted the return keyword.
+  - When you use arrow functions, as long as you use curly braces, you must use the return keyword.
