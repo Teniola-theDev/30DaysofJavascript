@@ -13,9 +13,14 @@ This is the first session of the day.
   - I ran into few errors because I am yet to be very comfortable with function declarations.
   - **Way forward:** I will revise it tomorrow and do the coding assignments.
 
-Session two of the day.
+**Session two of the day.**
 I learnt more on functions and now I can declare a function even more.
 By the time I'm back, I should go through **Arrays**.
+
+**Session three of the day**
+I walked through arrays and I can see that I have a better grasp of arrays overall now.
+My laptop is at 20% so I'll be taking a short break for now, and come back for a short session if we don't have light later in the day.
+_I am yet to watch the Youtube Video, but I really need to._
 
 ## What I want to have achieved by the end of the day
 
