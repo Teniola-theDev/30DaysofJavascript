@@ -33,3 +33,44 @@ This will be successful if I finish it in less (or equal to 40 days) from the 21
 - Code snippets.
 - Quote of the day or something motivational.
 - Bible quotes are allowed.
+
+<!-- **TEMPLATES**
+
+# DAY XYZ: _A Suitable Title_
+
+> "Opening quotes
+> Opening quotes
+> Opening quotes
+> Opening quotes"
+
+## What I want to have accomplished by the end of the day
+
+-
+-
+-
+
+## WHAT I HAVE DONE
+
+#### Session One
+
+#### Session Two
+
+#### Session Three
+
+#### Session Four
+
+## PROBLEMS
+
+1 Problem
+
+- Solution
+
+## EXTRAS
+
+#### Remarks
+
+#### Quotes
+
+#### Jokes
+
+#### Rating -->
