@@ -1,4 +1,4 @@
--# 30DaysofJavascript
+# 30DaysofJavascript
 
 - I will be going through thirty days of the 69 hours JS course I saw on Udemy.
 - The goal is to be very consistent.
@@ -13,7 +13,7 @@
 - I'll be back to define what makes this count as success.
   > Consistency is the goal.
 
-### What determines a successsful run
+### What determines a successful run
 
 This will be successful if I finish it in less (or equal to 40 days) from the 21st of June, simply put before 1st of August.
 
