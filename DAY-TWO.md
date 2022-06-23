@@ -31,6 +31,14 @@ So the thing is, I will go for a break now, and then when I'm back, I will go ov
 
 #### Session Three
 
+So I ran into lots of problems at this point and I also took a while to get back on track.
+
+The problem I had was that my values were mostly undefined and this happens if you don't declare the function _(in this case a method since it belongs inside an object)_.
+
+I am almost done with coding for the day.
+
+I will do the rest of the videos tomorrow, I should just watch the outstanding videos.
+
 #### Session Four
 
 ## PROBLEMS
@@ -38,11 +46,15 @@ So the thing is, I will go for a break now, and then when I'm back, I will go ov
 1 Problem
 
 - ```
-  let value = ` ${jonas["firstName"]} has ${jonas["friends"].length} friends, and his best friend is ${jonas["friends"][0]}`;
-  console.log(value);
+    let value = ` ${jonas["firstName"]} has ${jonas["friends"].length} friends, and his best friend is ${jonas["friends"][0]}`;
+    console.log(value);
 
 
   ```
+
+2 Values were undefined
+
+- Check if you've declared the function in which you declared the this keyword.
 
 ## EXTRAS
 
