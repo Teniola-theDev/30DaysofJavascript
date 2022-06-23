@@ -11,11 +11,17 @@
 - Watch the Youtube Video
 - Declare all the 3 types of functions.
 - Continue my Technical Writing course.
--
+- Read an article on difference on dot notation and square notation for objects.
 
 ## WHAT I HAVE DONE
 
 #### Session One
+
+- Reviewed Array methods
+- Read an article about arrays
+  Learnt the difference and possible use cases for object dot notation and square notations.
+- Solved a big problem but I used articles to solve it.
+- I am very happy I did that.
 
 #### Session Two
 
@@ -27,7 +33,12 @@
 
 1 Problem
 
-- Solution
+- ```
+  let value = ` ${jonas["firstName"]} has ${jonas["friends"].length} friends, and his best friend is ${jonas["friends"][0]}`;
+  console.log(value);
+
+
+  ```
 
 ## EXTRAS
 
@@ -38,3 +49,7 @@
 #### Jokes
 
 #### Rating
+
+```
+
+```
