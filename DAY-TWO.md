@@ -25,6 +25,10 @@
 
 #### Session Two
 
+Right now, Arrays and Objects are making me feel a bit weird.
+
+So the thing is, I will go for a break now, and then when I'm back, I will go over it and write down the problems and solutions.
+
 #### Session Three
 
 #### Session Four
