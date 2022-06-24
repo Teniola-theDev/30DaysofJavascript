@@ -1,5 +1,6 @@
 # DAY THREE: _Journey through the dark_
-        _27 days to go._
+
+_27 days to go._
 
 > Do I get to talk about the  
 > goodness of my Lord?  
