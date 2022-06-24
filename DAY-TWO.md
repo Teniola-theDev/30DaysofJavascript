@@ -41,6 +41,8 @@ I will do the rest of the videos tomorrow, I should just watch the outstanding v
 
 #### Session Four
 
+I finished the markdown tutorial and watched the YT video that came with it.
+
 ## PROBLEMS
 
 1 Problem
