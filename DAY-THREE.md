@@ -23,6 +23,9 @@ _27 days to go._
 
 #### Session Two
 
+- Delved into while loop
+- I am doing this kind of difficult challenge so yeah, I'll try to find a way around it.
+
 #### Session Three
 
 #### Session Four
