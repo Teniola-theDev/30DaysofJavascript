@@ -28,6 +28,8 @@ _27 days to go._
 
 #### Session Three
 
+- I finished the course way early today, the problem I had earlier got resolved. I mean it was kind of hard but I love it. I love having challenges after each course.
+
 #### Session Four
 
 ## PROBLEMS
