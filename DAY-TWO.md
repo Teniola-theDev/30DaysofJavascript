@@ -1,9 +1,9 @@
 # DAY TWO: _Withering flowers_
 
-> They talk about commitment
-> like it is something that just occurs.
-> But we choose to commit, or we don't.
-> It's a conscious effort.
+> They talk about commitment  
+> like it is something that just occurs.  
+> But we choose to commit, or we don't.  
+> It's a conscious effort.  
 > ~ Teniola, 2022.
 
 ## What I want to have accomplished by the end of the day
