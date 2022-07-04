@@ -21,6 +21,11 @@ There will only be 3 sessions for this week, hoping to see if that works since o
 
 #### Session One
 
+- I started today's course.
+- I did 1hr of the videos
+- I finished altschool assignment.
+- Time to take a break.
+
 #### Session Two
 
 #### Session Three
